@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://sct.tl/blog/2012/02/07/hello-world/</loc>
+        <lastmod>2012-02-07T23:30:19-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sct.tl/about/</loc>
+        <lastmod>2012-02-07T23:32:50-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://sct.tl/blog/archives/</loc>
-        <lastmod>2012-02-07T00:32:41-08:00</lastmod>
+        <lastmod>2012-02-07T23:30:19-08:00</lastmod>
     </url>
     <url>
         <loc>http://sct.tl/</loc>
-        <lastmod>2012-02-07T00:32:41-08:00</lastmod>
+        <lastmod>2012-02-07T23:30:19-08:00</lastmod>
     </url>
 </urlset>
